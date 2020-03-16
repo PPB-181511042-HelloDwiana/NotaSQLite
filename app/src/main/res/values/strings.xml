@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySQLite</string>
+    <string name= "appbar_scrolling_view_behaviour">scrolling</string>
+</resources>
